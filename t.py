@@ -8,7 +8,7 @@ while True:
     t.forward(400)
     t.speed('fastest')
     t.pensize(10)
-    turtle.bye()
+    # turtle.bye()
 
 
 # import string as ammo
